@@ -1,5 +1,5 @@
 ---
-title: "University Teacher"
+title: "University Teacher, October 2013, Polytechnic School of the Littoral (ESPOL)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2013-winter-teaching-2
