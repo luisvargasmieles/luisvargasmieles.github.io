@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I was born in Guayaquil, Ecuador. In 2011 and 2016, I obtained a bachelor's degree in Engineering and a master's degree at the Litoral Polytechnic School (ESPOL), respectively. From 2013 to 2017 I worked as a University teacher in ESPOL, I taught Single and Multivariable Calculus, Linear Algebra and Differential Equations. In 2018, I was awarded a Master's Degree in Computational Applied Mathematics with distinction at the University of Edinburgh.
+I was born in Guayaquil, Ecuador. In 2011 and 2016, I obtained a bachelor's degree in Engineering and a master's degree, respectively, at the Polytechnic School of the Littoral (ESPOL). From 2013 to 2017 I worked as a University teacher in ESPOL, I taught Single and Multivariable Calculus, Linear Algebra and Differential Equations. In 2018, I was awarded a Master's Degree in Computational Applied Mathematics with distinction at the University of Edinburgh.
