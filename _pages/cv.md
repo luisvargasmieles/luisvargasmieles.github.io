@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in Telematics Engineering, Litoral Polytechnic School (ESPOL), 2011
-* M.S. in Cyber Security, Litoral Polytechnic School (ESPOL), 2016
-* MSc. in Computational Applied Mathematics, University of Edinburgh, 2018
-* Ph.D in Applied and Computational Mathematics, University of Edinburgh, 2022 (expected)
+* B.S. in Telematics Engineering, Polytechnic School of the Littoral (ESPOL), 2011.
+* M.S. in Cyber Security, Polytechnic School of the Littoral (ESPOL), 2016.
+* MSc. in Computational Applied Mathematics, University of Edinburgh, 2018.
+* Ph.D in Applied and Computational Mathematics, University of Edinburgh, 2022 (expected).
 
 Work experience
 ======
-* 2013 - 2017: University Teacher
-  * Polytechnic School of the Litoral (ESPOL), Guayaquil, Ecuador
-  * Courses: Single Variable Calculus, Multivariable Calculus, Linear Algebra, Differential Equations
+* 2013 - 2017: University Teacher.
+  * Polytechnic School of the Littoral (ESPOL), Guayaquil, Ecuador.
+  * Courses: Single Variable Calculus, Multivariable Calculus, Linear Algebra, Differential Equations.
   
 Skills
 ======
