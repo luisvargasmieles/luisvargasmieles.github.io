@@ -7,7 +7,6 @@ date: 2020-05-26
 venue: 'SIAM Journal on Imaging Sciences'
 paperurl: 'https://doi.org/10.1137/19M1283719'
 citation: 'Marcelo Pereyra, Luis A. Vargas Mieles, and Konstantinos C. Zygalakis, &quot;Accelerating Proximal Markov Chain Monte Carlo by Using an Explicit Stabilized Method&quot;, <i>SIAM J. Imaging Sci.</i>, Vol. 13, No. 2, 2020, pp. 87-118'
-[arXiv](https://arxiv.org/abs/1908.08845)
 ---
 
 [arXiv](https://arxiv.org/abs/1908.08845)
