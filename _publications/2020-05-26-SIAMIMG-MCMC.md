@@ -10,5 +10,6 @@ citation: 'Marcelo Pereyra, Luis Vargas Mieles, and Konstantinos C. Zygalakis, &
 ---
 
 [Download paper here](https://doi.org/10.1137/19M1283719)
+[Download paper here](https://arxiv.org/abs/1908.08845)
 
 Recommended citation: Marcelo Pereyra, Luis Vargas Mieles, and Konstantinos C. Zygalakis, "Accelerating Proximal Markov Chain Monte Carlo by Using an Explicit Stabilized Method", <i>SIAM J. Imaging Sci.</i>, 13 (2020), pp. 87-118.
