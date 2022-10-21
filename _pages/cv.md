@@ -15,7 +15,7 @@ Education
 * M.S. in Cyber Security, Polytechnic School of the Littoral (ESPOL), 2016.
 * MSc. in Computational Applied Mathematics, University of Edinburgh, 2018.
 * Ph.D in Applied and Computational Mathematics, University of Edinburgh, 2022.
-* Postdoctoral Research Associate, Chris Wallace's group, CITIID, University of Cambridge, present.
+* Postdoctoral Research Associate, Chris Wallace's group, CITIID, University of Cambridge, 2022 - present.
 
 Work experience
 ======
