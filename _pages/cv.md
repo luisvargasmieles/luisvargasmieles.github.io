@@ -14,7 +14,8 @@ Education
 * B.S. in Telematics Engineering, Polytechnic School of the Littoral (ESPOL), 2011.
 * M.S. in Cyber Security, Polytechnic School of the Littoral (ESPOL), 2016.
 * MSc. in Computational Applied Mathematics, University of Edinburgh, 2018.
-* Ph.D in Applied and Computational Mathematics, University of Edinburgh, 2022 (expected).
+* Ph.D in Applied and Computational Mathematics, University of Edinburgh, 2022.
+* Postdoctoral Research Associate, Chris Wallace's group, CITIID, University of Cambridge, present.
 
 Work experience
 ======
@@ -25,7 +26,7 @@ Work experience
 Skills
 ======
 * Programming languages
-  * Main experience: Python, MATLAB, LaTex.
+  * Main experience: R, Python, MATLAB.
   * Other technologies: Julia, C++.
 
 Publications
