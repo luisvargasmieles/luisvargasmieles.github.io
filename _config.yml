@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Luis Vargas / Personal Website"
+title                    : "Luis A. Vargas-Mieles"
 title_separator          : "-"
 name                     : &name "Luis A. Vargas-Mieles"
 description              : &description "Postdoctoral Research Associate, CITIID, University of Cambridge."
@@ -80,41 +80,41 @@ analytics:
 
 # Site Author
 author:
-  - name             : "Luis A. Vargas-Mieles"
-  - avatar           : "profile.png"
-  - bio              : "Postdoctoral Research Associate, Wallace group, CITIID, University of Cambridge. PhD in Applied and Computational Mathematics, University of Edinburgh."
-  - location         : "Cambridge, UK"
-  - employer         :
-  - pubmed           :
-  - googlescholar    : "https://scholar.google.com/citations?user=jlIx-9oAAAAJ"
-  - email            :
-  - researchgate     :
-  - uri              :
-  - bitbucket        :
-  - codepen          :
-  - dribbble         :
-  - flickr           :
-  - facebook         :
-  - foursquare       :
-  - github           : "luisvargasmieles"
-  - google_plus      :
-  - keybase          :
-  - instagram        :
-  - impactstory      :
-  - lastfm           :
-  - linkedin         :
-  - orcid            :
-  - pinterest        :
-  - soundcloud       :
-  - stackoverflow    :
-  - steam            :
-  - tumblr           :
-  - twitter          : "luis_vargas_87"
-  - vine             :
-  - weibo            :
-  - xing             :
-  - youtube          :
-  - wikipedia        :
+  name             : "Luis A. Vargas-Mieles"
+  avatar           : "profile.png"
+  bio              : "Postdoctoral Research Associate, Wallace Group, CITIID, University of Cambridge. PhD in Applied and Computational Mathematics, University of Edinburgh."
+  location         : "Cambridge, UK"
+  employer         :
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=jlIx-9oAAAAJ"
+  email            :
+  researchgate     :
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "luisvargasmieles"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      :
+  lastfm           :
+  linkedin         :
+  orcid            :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    :
+  steam            :
+  tumblr           :
+  twitter          : "luis_vargas_87"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 # Reading Files
 include:
