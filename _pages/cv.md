@@ -22,6 +22,8 @@ Work experience
 * 2013 - 2017: University Teacher.
   * Polytechnic School of the Littoral (ESPOL), Guayaquil, Ecuador.
   * Courses: Single Variable Calculus, Multivariable Calculus, Linear Algebra, Differential Equations.
+* 2022 - present: Research Associate.
+  * CITIID, University of Cambridge.
   
 Skills
 ======
